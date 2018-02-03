@@ -1,4 +1,4 @@
-folder('CODEADDAGURU') {
+folder('/PIPELINE_JOB/CODEADDAGURU') {
         description('project foloder created')
 }
 freeStyleJob('/PIPELINE_JOB/CODEADDAGURU/compile') {
